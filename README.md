@@ -29,12 +29,21 @@ where Conditions = TRUE
 
 ![Screenshot 2024-11-06 234632](https://github.com/user-attachments/assets/1bb82e7d-8e65-4420-a89f-551d9d68985b)
 
+### Regional Sales Summary
 ![Screenshot 2024-11-06 233306](https://github.com/user-attachments/assets/57257066-e960-47b8-a117-36f72cbbe2d5)
 
 The "Regional Amount" chart provides a clear visualization of sales distribution across four key regions, with each segment representing the proportion of total sales attributed to each area. The South region leads significantly, accounting for the largest share at 4,675,000, suggesting a strong sales presence or high demand in this area. The East region follows with 2,450,000, indicating solid performance, though notably lower than the South. North and West contribute 1,950,000 and 1,512,500 respectively, with the West region generating the smallest share of total sales.
 
 This insight is crucial for decision-makers aiming to target high-performing regions or explore growth strategies for underperforming areas.
 
-
+### Average Sales Per Product Analysis
 ![Screenshot 2024-11-06 233931](https://github.com/user-attachments/assets/1184510e-e6e2-4365-a5fe-dc618038760f)
 
+The "Average Sales per Product" charts, both line and bar formats, illustrate the trends in average sales amount and unit quantity across various product categories. The Amount (in blue) reflects the revenue per product, while Unit (in red) shows the average number of items sold per transaction.
+
+Key observations include:
+
+High initial sales amount for certain products, such as Shoes, which see a steep drop-off in average sales amount in subsequent categories.
+Amount fluctuations across different product categories, with a noticeable dip in some product groups, followed by a gradual recovery towards the end of the series.
+Unit sales remain relatively stable, showing only minor variations across products, suggesting that while revenue fluctuates, the quantity sold remains consistent.
+This analysis provides a dynamic view into product performance, revealing which items drive higher revenue versus stable unit sales. Such insights are essential for pricing strategies, inventory planning, and understanding product-specific demand patterns.
