@@ -21,8 +21,18 @@ where Conditions = TRUE
 
 ## Data Visualisation
 
+### Monthly Sales Performance and Movement Summary
 ![Screenshot 2024-11-06 234030](https://github.com/user-attachments/assets/5f9a0a6e-ec3d-4ef1-8681-27ef2e47feb4)
 
+This report presents a high-level overview of monthly sales performance, highlighting total sales and month-over-month percentage changes. Key insights are as follows:
+
+Strong Growth Periods: Significant growth was observed in February (+120.00%), June (+138.10%), and October (+285.71%). These months saw substantial increases in sales compared to the preceding month, indicating periods of high demand or successful sales initiatives.
+
+Declines in Sales: Notable drops occurred in March (-80.45%), April (-55.81%), August (-26.13%), September (-82.93%), and December (-52.38%). These declines suggest potential seasonal effects, reduced demand, or other factors impacting sales performance.
+
+Stable Months: Months such as July (+11.00%) showed modest growth, indicating more stable performance.
+
+The total sales for the year amount to 10,587,500. This analysis provides insights into peak sales periods and potential areas for improvement, which are crucial for strategic planning and resource allocation.
 ![Screenshot 2024-11-06 234526](https://github.com/user-attachments/assets/0877c53f-47e3-414d-8c2f-fb2f56897eea)
 
 ![Screenshot 2024-11-06 234556](https://github.com/user-attachments/assets/4bb6abab-982d-44a1-96cb-f9fe8d7d690c)
