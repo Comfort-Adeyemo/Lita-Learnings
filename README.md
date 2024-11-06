@@ -21,9 +21,7 @@ where Conditions = TRUE
 
 ## Data Visualisation
 
-
 ![Screenshot 2024-11-06 234030](https://github.com/user-attachments/assets/5f9a0a6e-ec3d-4ef1-8681-27ef2e47feb4)
-
 
 ![Screenshot 2024-11-06 234526](https://github.com/user-attachments/assets/0877c53f-47e3-414d-8c2f-fb2f56897eea)
 
@@ -31,5 +29,7 @@ where Conditions = TRUE
 
 ![Screenshot 2024-11-06 234632](https://github.com/user-attachments/assets/1bb82e7d-8e65-4420-a89f-551d9d68985b)
 
+![Screenshot 2024-11-06 233306](https://github.com/user-attachments/assets/57257066-e960-47b8-a117-36f72cbbe2d5)
 
+![Screenshot 2024-11-06 233931](https://github.com/user-attachments/assets/1184510e-e6e2-4365-a5fe-dc618038760f)
 
