@@ -18,3 +18,25 @@ Data Analysis
 select * from Sales data
 where Conditions = TRUE
 '''
+
+## Data Visualisation
+
+![Screenshot 2024-11-06 233306](https://github.com/user-attachments/assets/f1e50494-084f-4da6-9c5b-9a0b5c!
+
+[Screenshot 2024-11-06 233931](https://github.com/user-attachments/assets/d53a4b52-6b8b-4fa8-b5cf-791e9669dcb4)
+86cee5)
+
+![Screenshot 2024-11-06 234444](https://github.com/user-attachments/assets/19778c3e-af19-418f-ac9f-5197eeea6bee)
+
+
+![Screenshot 2024-11-06 234030](https://github.com/user-attachments/assets/5f9a0a6e-ec3d-4ef1-8681-27ef2e47feb4)
+
+
+![Screenshot 2024-11-06 234526](https://github.com/user-attachments/assets/0877c53f-47e3-414d-8c2f-fb2f56897eea)
+
+![Screenshot 2024-11-06 234556](https://github.com/user-attachments/assets/4bb6abab-982d-44a1-96cb-f9fe8d7d690c)
+
+![Screenshot 2024-11-06 234632](https://github.com/user-attachments/assets/1bb82e7d-8e65-4420-a89f-551d9d68985b)
+
+
+![Screenshot 2024-11-06 234526](https://github.com/user-attachments/assets/29d786b5-65cf-46df-b535-935aac127f9b)
