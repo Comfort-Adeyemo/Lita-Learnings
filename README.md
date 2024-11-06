@@ -21,10 +21,6 @@ where Conditions = TRUE
 
 ## Data Visualisation
 
-![Screenshot 2024-11-06 233306](https://github.com/user-attachments/assets/f1e50494-084f-4da6-9c5b-9a0b5c!
-
-[Screenshot 2024-11-06 233931](https://github.com/user-attachments/assets/d53a4b52-6b8b-4fa8-b5cf-791e9669dcb4)
-86cee5)
 
 ![Screenshot 2024-11-06 234444](https://github.com/user-attachments/assets/19778c3e-af19-418f-ac9f-5197eeea6bee)
 
@@ -39,4 +35,4 @@ where Conditions = TRUE
 ![Screenshot 2024-11-06 234632](https://github.com/user-attachments/assets/1bb82e7d-8e65-4420-a89f-551d9d68985b)
 
 
-![Screenshot 2024-11-06 234526](https://github.com/user-attachments/assets/29d786b5-65cf-46df-b535-935aac127f9b)
+
