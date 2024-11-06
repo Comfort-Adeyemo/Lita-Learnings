@@ -12,3 +12,9 @@ The Sales Insight project pulls data from several key sources essential for a co
 
 ## Tools Used 
 This analysis leverages a powerful set of tools—Excel, SQL, and Power BI—to efficiently handle data processing, analysis, and visualization. Excel is used for quick data cleaning, preliminary analyses, and pivot tables that provide a snapshot of sales trends and customer behaviors. SQL allows us to run complex queries to aggregate and filter large datasets, performing deeper analysis on factors like regional sales breakdown, product performance, and customer segmentation. Finally, Power BI brings the analysis to life with dynamic dashboards, enabling stakeholders to interact with visuals and uncover key insights in real time. Together, these tools provide a streamlined approach for data-driven decision-making.
+
+Data Analysis
+'''sql
+select * from Sales data
+where Conditions = TRUE
+'''
