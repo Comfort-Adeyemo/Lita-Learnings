@@ -31,5 +31,10 @@ where Conditions = TRUE
 
 ![Screenshot 2024-11-06 233306](https://github.com/user-attachments/assets/57257066-e960-47b8-a117-36f72cbbe2d5)
 
+The "Regional Amount" chart provides a clear visualization of sales distribution across four key regions, with each segment representing the proportion of total sales attributed to each area. The South region leads significantly, accounting for the largest share at 4,675,000, suggesting a strong sales presence or high demand in this area. The East region follows with 2,450,000, indicating solid performance, though notably lower than the South. North and West contribute 1,950,000 and 1,512,500 respectively, with the West region generating the smallest share of total sales.
+
+This insight is crucial for decision-makers aiming to target high-performing regions or explore growth strategies for underperforming areas.
+
+
 ![Screenshot 2024-11-06 233931](https://github.com/user-attachments/assets/1184510e-e6e2-4365-a5fe-dc618038760f)
 
