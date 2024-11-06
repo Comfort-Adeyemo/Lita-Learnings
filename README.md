@@ -22,9 +22,6 @@ where Conditions = TRUE
 ## Data Visualisation
 
 
-![Screenshot 2024-11-06 234444](https://github.com/user-attachments/assets/19778c3e-af19-418f-ac9f-5197eeea6bee)
-
-
 ![Screenshot 2024-11-06 234030](https://github.com/user-attachments/assets/5f9a0a6e-ec3d-4ef1-8681-27ef2e47feb4)
 
 
