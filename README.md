@@ -60,7 +60,7 @@ Product-Specific Demand: Shoes and Shirts are the highest-revenue products, part
 Growth Potential: The West region has lower sales across most products, suggesting potential for strategic growth initiatives, such as targeted marketing or promotions.
 This analysis helps identify high-performing regions and products, guiding inventory planning, regional marketing strategies, and product-specific investments.
 
-Product Sales Summary
+### Product Sales Summary
 ![Screenshot 2024-11-06 234556](https://github.com/user-attachments/assets/4bb6abab-982d-44a1-96cb-f9fe8d7d690c)
 
 The sales data reveals the performance of various products, with a Grand Total of 10,587,500 in sales. Key insights include:
